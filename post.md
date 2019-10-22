@@ -1,4 +1,4 @@
-# Blog Post
+# post1
 ## My first Blog Post
 * Post1
 * Post2
